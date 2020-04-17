@@ -32,7 +32,7 @@ h1{
         - Set the separator between the columns (the "column-rule") to be 2px dashed rosybrown. 
 */
 #menu {
-    column-rule-color: 2px dashed rosybrown;
+    column-rule: 2px dashed rosybrown;
     columns: 400px 2;
     column-gap: 100px;
 }
